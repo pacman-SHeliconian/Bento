@@ -23,7 +23,7 @@ const CONFIG = {
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherIcons: 'Nord', // 'OneDark', 'Dark', 'White'
   weatherUnit: 'C',
   weatherLatitude: '37.774929',
   weatherLongitude: '-122.419418',
