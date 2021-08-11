@@ -50,8 +50,8 @@ const CONFIG = {
     {
       id: '3',
       name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      icon: 'message-square',
+      link: 'https://discord.com/channels/@me',
     },
     {
       id: '4',
